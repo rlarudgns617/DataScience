@@ -10,11 +10,12 @@ And the number of people who get on and off for free is those who use free trans
 ## (2)is
 a dataset that tells you how many convenience facilities such as escalators and elevators are arranged on each line.
 
-### Our group chose two datasets for the purpose of comparing the number of free riders by line and the number of facilities installed for boarding and boarding to identify routes that lack boarding facilities and predict how much more facilities to increase.
+## Our group 
+chose two datasets for the purpose of comparing the number of free riders by line and the number of facilities installed for boarding and boarding to identify routes that lack boarding facilities and predict how much more facilities to increase.
 
-# We developed and learned the model using two algorithms, KNN and linear regression.
+## We developed and learned the model using two algorithms, KNN and linear regression.
 df1 is a dataset showing the number of free passengers and the number of paid passengers by line.
 df2 is a dataset that shows the type and number of convenience facilities by line.
 
-# Relationship between Free Riders and Convenience Facilities: Free Riders are the elderly, the people of national merit, etc.
-# We think we should increase the number of convenience facilities on the subway line that many of these people ride.
+## Relationship between Free Riders and Convenience Facilities: Free Riders are the elderly, the people of national merit, etc.
+## We think we should increase the number of convenience facilities on the subway line that many of these people ride.
